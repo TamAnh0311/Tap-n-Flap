@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "topPipe",
+    "texture": "87932630-ec01-46b1-a8b3-92ee120d7784",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      129,
+      801
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      801
+    ]
+  }
+}

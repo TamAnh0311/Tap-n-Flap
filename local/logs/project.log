@@ -1,0 +1,55 @@
+2018-04-30T07:21:55.104Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-30T07:21:55.109Z - normal: checking language setting...
+2018-04-30T07:21:55.109Z - normal: Language: en
+2018-04-30T07:22:00.256Z - success: protocol editor-framework registered
+2018-04-30T07:22:00.256Z - success: protocol app registered
+2018-04-30T07:22:00.256Z - success: protocol theme registered
+2018-04-30T07:22:00.257Z - success: protocol packages registered
+2018-04-30T07:22:00.257Z - success: protocol unpack registerred
+2018-04-30T07:22:00.257Z - success: protocol disable-commonjs registerred
+2018-04-30T07:22:00.631Z - normal: connected!
+2018-04-30T07:22:00.633Z - normal: Check project C:\Users\Dell\Documents\TapnFlap
+2018-04-30T07:22:00.638Z - normal: Initializing Cocos2d
+2018-04-30T07:22:01.740Z - normal: Initializing Asset Database
+2018-04-30T07:22:01.888Z - success: protocol uuid registerred
+2018-04-30T07:22:01.889Z - success: protocol db registerred
+2018-04-30T07:22:01.889Z - success: protocol thumbnail registerred
+2018-04-30T07:22:01.890Z - normal: Loading editor/builtin packages
+2018-04-30T07:22:02.099Z - success: anysdk loaded
+2018-04-30T07:22:02.514Z - success: assets loaded
+2018-04-30T07:22:02.517Z - success: builder loaded
+2018-04-30T07:22:02.519Z - success: cocos-analytics loaded
+2018-04-30T07:22:02.535Z - success: console loaded
+2018-04-30T07:22:02.581Z - success: fb-instant-games loaded
+2018-04-30T07:22:02.585Z - success: hierarchy loaded
+2018-04-30T07:22:02.589Z - success: inspector loaded
+2018-04-30T07:22:02.591Z - success: keystore loaded
+2018-04-30T07:22:02.595Z - success: node-library loaded
+2018-04-30T07:22:02.598Z - success: package-asset loaded
+2018-04-30T07:22:02.601Z - success: preferences loaded
+2018-04-30T07:22:02.625Z - success: project-exporter loaded
+2018-04-30T07:22:02.650Z - success: project-importer loaded
+2018-04-30T07:22:02.653Z - success: project-settings loaded
+2018-04-30T07:22:02.656Z - success: ui-kit loaded
+2018-04-30T07:22:02.668Z - success: ui-grid loaded
+2018-04-30T07:22:02.673Z - success: scene loaded
+2018-04-30T07:22:02.675Z - success: sprite-editor loaded
+2018-04-30T07:22:02.680Z - success: store loaded
+2018-04-30T07:22:02.687Z - success: timeline loaded
+2018-04-30T07:22:02.687Z - normal: Loading builtin packages
+2018-04-30T07:22:02.702Z - success: asset-db-debugger loaded
+2018-04-30T07:22:02.704Z - success: code-editor loaded
+2018-04-30T07:22:02.715Z - success: color-picker loaded
+2018-04-30T07:22:02.718Z - success: package-manager loaded
+2018-04-30T07:22:02.753Z - success: sdkbox loaded
+2018-04-30T07:22:02.757Z - success: tester loaded
+2018-04-30T07:22:02.759Z - success: ui-kit-preview-extra loaded
+2018-04-30T07:22:02.761Z - success: ui-kit-preview loaded
+2018-04-30T07:22:02.774Z - success: ui-tree loaded
+2018-04-30T07:22:05.435Z - normal: Initializing project C:\Users\Dell\Documents\TapnFlap
+2018-04-30T07:22:05.470Z - normal: Loading packages
+2018-04-30T07:22:05.476Z - normal: Watching packages
+2018-04-30T07:22:05.515Z - normal: Run Application
+2018-04-30T07:22:09.267Z - success: preview server running at http://localhost:7456
+2018-04-30T07:22:29.460Z - normal: 1.9.0
+2018-04-30T07:23:40.137Z - info: shutdown preview server
